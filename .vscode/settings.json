@@ -1,0 +1,8 @@
+{
+    "debug.allowBreakpointsEverywhere": true,
+    "files.autoGuessEncoding": true,
+
+    "C_Cpp.default.compilerPath": "C:\\MinGW\\bin\\g++.exe",
+
+    "cmake.generator": "Visual Studio 17 2022"
+}
